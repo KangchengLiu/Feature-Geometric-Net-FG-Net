@@ -15,7 +15,7 @@ FG-Net: Fast Large-Scale LiDAR Point Clouds Understanding Network Leveraging Cor
 ![Represent](./fig/s3dis_results_2.pdf)
 ![Represent](./fig/s3dis_results_detailed.pdf)
 ![Represent](./fig/PartNet_results.pdf)
-!(./fig/semantic_kitti_results_2.pdf)
+![Represent](./fig/semantic_kitti_results_2.pdf)
 
 
 
