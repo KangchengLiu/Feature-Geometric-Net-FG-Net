@@ -10,7 +10,7 @@
 **FG-Net: Fast Large-Scale LiDAR Point Clouds Understanding Network Leveraging Correlated Feature Mining and Geometric-Aware Modelling**
 
  
-![cardinal](./fig/Sequence_12.gif) 
+![cardinal](./fig/Sequence_12.gif) <br />
 **Semantic Semgmentation Results on Area 1 of S3DIS Benchmark:**<br />
 ![cardinal](./fig/Area_1.gif) 
 
