@@ -11,18 +11,27 @@ FG-Net: Fast Large-Scale LiDAR Point Clouds Understanding Network Leveraging Cor
 
  
 ![cardinal](./fig/Sequence_12.gif) 
+![cardinal]Semantic Semgmentation Results on Area 1 of S3DIS Benchmark:
 ![cardinal](./fig/Area_1.gif) 
+![cardinal]Semantic Semgmentation Results on Area 2 of S3DIS Benchmark:
 ![cardinal](./fig/Area_2.gif) 
+![cardinal]Semantic Semgmentation Results on Area 3 of S3DIS Benchmark:
 ![cardinal](./fig/Area_3.gif) 
+![cardinal]Semantic Semgmentation Results on Area 4 of S3DIS Benchmark:
 ![cardinal](./fig/Area_4.gif) 
+![cardinal]Semantic Semgmentation Results on Area 5 of S3DIS Benchmark:
 ![cardinal](./fig/Area_5.gif) 
-![cardinal](./fig/Area_6.gif) 
+![cardinal]Semantic Semgmentation Results on Area 6 of S3DIS Benchmark:
 ![cardinal](./fig/Area_6.gif) 
 
 
+![cardinal]Semantic Semgmentation Results on Lille_1_1 of NPM3D Benchmark:
 ![cardinal](./fig/Lille_1_1.gif) 
+![cardinal]Semantic Semgmentation Results on Lille_1_2 of NPM3D Benchmark:
 ![cardinal](./fig/Lille_1_2.gif) 
+![cardinal]Semantic Semgmentation Results on Lille_2 of NPM3D Benchmark:
 ![cardinal](./fig/Lille_2.gif) 
+![cardinal]Semantic Semgmentation Results on Paris of NPM3D Benchmark:
 ![cardinal](./fig/Paris.gif) 
 
 ![Represent](./fig/s3dis_results_whole.png)
@@ -32,8 +41,14 @@ FG-Net: Fast Large-Scale LiDAR Point Clouds Understanding Network Leveraging Cor
 ![Represent](./fig/PartNet_results_2.png)
 ![Represent](./fig/semantic_kitti_results.png)
 
-
-
-
-
-
+![cardinal]Semantic Semgmentation Results on Semantic3D Benchmark:
+![cardinal](./fig/Birdfountain_station1_xyz_intensity_rgb.gif) 
+![cardinal](./fig/Castleblatten_station_1_intensity_rgb.gif) 
+![cardinal](./fig/Marketplacefeldkirch_station1_intensity_rgb.gif) 
+![cardinal](./fig/Marketplacefeldkirch_station4_intensity_rgb.gif) 
+![cardinal](./fig/Marketplacefeldkirch_station7_intensity_rgb.gif) 
+![cardinal](./fig/Sg27_Station10_rgb_intensity-reduced.gif) 
+![cardinal](./fig/Sg28_Station2_rgb_intensity-reduced.gif)
+![cardinal](./fig/StGallenCathedral_station1_rgb_intensity.gif)
+![cardinal](./fig/StGallenCathedral_station3_rgb_intensity.gif)
+![cardinal](./fig/StGallenCathedral_station6_rgb_intensity.gif)
