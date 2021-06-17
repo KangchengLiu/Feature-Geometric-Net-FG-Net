@@ -11,13 +11,13 @@
 
  
 ![cardinal](./fig/Sequence_12.gif) 
-**Semantic Semgmentation Results on Area 1 of S3DIS Benchmark:**
+**Semantic Semgmentation Results on Area 1 of S3DIS Benchmark:**<br />
 ![cardinal](./fig/Area_1.gif) 
 
-**Semantic Semgmentation Results on Area 2 of S3DIS Benchmark:**
+**Semantic Semgmentation Results on Area 2 of S3DIS Benchmark:**<br />
 ![cardinal](./fig/Area_2.gif)
 
-**Semantic Semgmentation Results on Area 3 of S3DIS Benchmark:**
+**Semantic Semgmentation Results on Area 3 of S3DIS Benchmark:**<br />
 ![cardinal](./fig/Area_3.gif) 
 
 **Semantic Semgmentation Results on Area 4 of S3DIS Benchmark:**
