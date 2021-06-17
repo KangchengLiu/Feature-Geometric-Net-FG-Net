@@ -20,27 +20,27 @@
 **Semantic Semgmentation Results on Area 3 of S3DIS Benchmark:**<br />
 ![cardinal](./fig/Area_3.gif) 
 
-**Semantic Semgmentation Results on Area 4 of S3DIS Benchmark:**
+**Semantic Semgmentation Results on Area 4 of S3DIS Benchmark:**<br />
 ![cardinal](./fig/Area_4.gif) 
 
-**Semantic Semgmentation Results on Area 5 of S3DIS Benchmark:**
+**Semantic Semgmentation Results on Area 5 of S3DIS Benchmark:**<br />
 ![cardinal](./fig/Area_5.gif) 
 
-**Semantic Semgmentation Results on Area 6 of S3DIS Benchmark:**
+**Semantic Semgmentation Results on Area 6 of S3DIS Benchmark:**<br />
 
 (./fig/Area_6.gif) 
 
 
-**Semantic Semgmentation Results on Lille_1_1 of NPM3D Benchmark:**
+**Semantic Semgmentation Results on Lille_1_1 of NPM3D Benchmark:**<br />
 ![cardinal](./fig/Lille_1_1.gif) 
 
-**Semantic Semgmentation Results on Lille_1_2 of NPM3D Benchmark:**
+**Semantic Semgmentation Results on Lille_1_2 of NPM3D Benchmark:**<br />
 ![cardinal](./fig/Lille_1_2.gif) 
 
-**Semantic Semgmentation Results on Lille_2 of NPM3D Benchmark:**
+**Semantic Semgmentation Results on Lille_2 of NPM3D Benchmark:**<br />
 ![cardinal](./fig/Lille_2.gif) 
 
-**Semantic Semgmentation Results on Paris of NPM3D Benchmark:**
+**Semantic Semgmentation Results on Paris of NPM3D Benchmark:**<br />
 ![cardinal](./fig/Paris.gif) 
 
 
@@ -51,7 +51,7 @@
 ![Represent](./fig/PartNet_results_2.png)
 ![Represent](./fig/semantic_kitti_results.png)
 
-**Semantic Semgmentation Results on Semantic3D Benchmark:**
+**Semantic Semgmentation Results on Semantic3D Benchmark:**<br />
 ![cardinal](./fig/Birdfountain_station1_xyz_intensity_rgb.gif) 
 ![cardinal](./fig/Castleblatten_station_1_intensity_rgb.gif) 
 ![cardinal](./fig/Marketplacefeldkirch_station1_intensity_rgb.gif) 
