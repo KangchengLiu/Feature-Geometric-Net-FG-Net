@@ -8,12 +8,11 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fg-net-fast-large-scale-lidar-point/semantic-segmentation-on-s3dis)](https://paperswithcode.com/sota/semantic-segmentation-on-s3dis?p=fg-net-fast-large-scale-lidar-point)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fg-net-fast-large-scale-lidar-point/3d-point-cloud-classification-on-modelnet40)](https://paperswithcode.com/sota/3d-point-cloud-classification-on-modelnet40?p=fg-net-fast-large-scale-lidar-point)
 [![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+
 # Feature-Geometric-Net-FG-Net
 
 **FG-Net: Fast Large-Scale LiDAR Point Clouds Understanding Network Leveraging Correlated Feature Mining and Geometric-Aware Modelling**
-
 **Comparisons of Running Time of Our Method with SOTA methods RandLA and KPConv:**<br />
-
 **Comparisons on Sequence 12:** <br />
 ![cardinal](./fig/Sequence_12.gif) <br />
 
