@@ -104,8 +104,14 @@
 **Results on Sequence 08 (Validation Set) of SemanticKITTI Benchmark**<br />
 ![cardinal](./fig/Semantic-KITTI_08.gif)
 
-**Visualizations of Kernel Deformations on S3DIS**<br />
+**Visualizations of Kernel Deformations on S3DIS 1**<br />
 ![cardinal](./fig/Kernel_deformation_1.gif)
+
+**Visualizations of Kernel Deformations on S3DIS 2**<br />
+![cardinal](./fig/Kernel_deformation_2.gif)
+
+**Visualizations of Kernel Deformations on S3DIS 3**<br />
+![cardinal](./fig/Kernel_deformation_3.gif)
 
 **Comparisons of Our Proposed FG-Net on S3DIS with Current SOTA Methods**<br />
     ![cardinal](./fig/S3DIS_Compared_Final_2.png)
@@ -142,3 +148,5 @@
 
 **Detailed Semantic Semgmentation Results on SemanticKITTI Benchmark**<br />
 ![cardinal](./fig/semantic_kitti_results.png)
+
+This work presents FG-Net, a general deep learning framework for large-scale point clouds understanding without voxelizations, which achieves accurate and real-time performance with a single NVIDIA GTX 1080 GPU and an i7 CPU. First, a novel noise and outlier filtering method is designed to facilitate the subsequent high-level understanding tasks. For effective understanding purpose, we propose a novel plug-and-play module consisting of correlated feature mining and deformable convolution based geometric-aware modelling, in which the local feature relationships and point clouds geometric structures can be fully extracted and exploited. For the efficiency issue, we put forward a new composite inverse density sampling based and learning based operation and a feature pyramid based residual learning strategy to save the computational cost and memory consumption respectively. Compared with current methods which are only validated on limited datasets, we have done extensive experiments on eight real-world challenging benchmarks, which demonstrates that our approaches outperform state-of-the-art approaches in terms of both accuracy and efficiency. Moreover, weakly supervised transfer learning is also conducted to demonstrate the generalization capacity of our method. Source code, and representative results on the public benchmarks of our work are made publicly available to benefit the community.
