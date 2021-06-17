@@ -44,7 +44,7 @@
 **Semantic Semgmentation Results on Paris of NPM3D Benchmark:**<br />
 ![cardinal](./fig/Paris.gif) 
 
-**Comparisons of Our Proposed FG-Net on S3DIS  with Current SOTA Methods**<br />
+**Comparisons of Our Proposed FG-Net on S3DIS with Current SOTA Methods**<br />
 ![cardinal](./fig/S3DIS_Compared_Final_2.png)
 
 **Comparisons of Our Proposed FG-Net on SemanticKITTI with Current SOTA Methods**<br />
