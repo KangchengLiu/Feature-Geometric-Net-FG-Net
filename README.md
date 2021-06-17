@@ -1,3 +1,4 @@
+**Performance of Our Methods on Large-Scale Public Benchmarks:**
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fg-net-fast-large-scale-lidar-point/lidar-semantic-segmentation-on-paris-lille-3d)](https://paperswithcode.com/sota/lidar-semantic-segmentation-on-paris-lille-3d?p=fg-net-fast-large-scale-lidar-point)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fg-net-fast-large-scale-lidar-point/semantic-segmentation-on-semantic3d)](https://paperswithcode.com/sota/semantic-segmentation-on-semantic3d?p=fg-net-fast-large-scale-lidar-point)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fg-net-fast-large-scale-lidar-point/3d-semantic-segmentation-on-semantickitti)](https://paperswithcode.com/sota/3d-semantic-segmentation-on-semantickitti?p=fg-net-fast-large-scale-lidar-point)
@@ -57,13 +58,33 @@
 ![Represent](./fig/semantic_kitti_results.png)
 
 **Semantic Semgmentation Results on Semantic3D Benchmark:**<br />
+
+**Results on Birdfountain_station1_xyz_intensity_rgb**<br />
 ![cardinal](./fig/Birdfountain_station1_xyz_intensity_rgb.gif) 
+**Results on Castleblatten_station_1_intensity_rgb**<br />
 ![cardinal](./fig/Castleblatten_station_1_intensity_rgb.gif) 
+**Results on Marketplacefeldkirch_station1_intensity_rgb**<br />
 ![cardinal](./fig/Marketplacefeldkirch_station1_intensity_rgb.gif) 
+**Results on Marketplacefeldkirch_station4_intensity_rgb**<br />
 ![cardinal](./fig/Marketplacefeldkirch_station4_intensity_rgb.gif) 
+**Results on Marketplacefeldkirch_station7_intensity_rgb**<br />
 ![cardinal](./fig/Marketplacefeldkirch_station7_intensity_rgb.gif) 
+**Results on Sg27_Station10_rgb_intensity**<br />
 ![cardinal](./fig/Sg27_Station10_rgb_intensity-reduced.gif) 
+**Results on Sg28_Station2_rgb_intensity**<br />
 ![cardinal](./fig/Sg28_Station2_rgb_intensity-reduced.gif)
+**Results on StGallenCathedral_station1_rgb_intensity**<br />
 ![cardinal](./fig/StGallenCathedral_station1_rgb_intensity.gif)
+**Results on StGallenCathedral_station3_rgb_intensity**<br />
 ![cardinal](./fig/StGallenCathedral_station3_rgb_intensity.gif)
+**Results on StGallenCathedral_station6_rgb_intensity**<br />
 ![cardinal](./fig/StGallenCathedral_station6_rgb_intensity.gif)
+
+
+**Semantic Semgmentation Results on SemanticKITTI Benchmark:**<br />
+**Results on Sequence 11-14 of SemanticKITTI Benchmark**<br />
+![cardinal](./fig/Semantic-KITTI_11_14.gif)
+**Results on Sequence 15-18 of SemanticKITTI Benchmark**<br />
+![cardinal](./fig/Semantic-KITTI_15_18.gif)
+**Results on Sequence 08 (Validation Set) of SemanticKITTI Benchmark**<br />
+![cardinal](./fig/Semantic-KITTI_08.gif)
