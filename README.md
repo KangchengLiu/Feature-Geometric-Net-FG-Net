@@ -104,6 +104,8 @@
 **Results on Sequence 08 (Validation Set) of SemanticKITTI Benchmark**<br />
 ![cardinal](./fig/Semantic-KITTI_08.gif)
 
+**Visualizations of Kernel Deformations on S3DIS**<br />
+![cardinal](./fig/Kernel_deformation_1.gif)
 
 **Comparisons of Our Proposed FG-Net on S3DIS with Current SOTA Methods**<br />
     ![cardinal](./fig/S3DIS_Compared_Final_2.png)
