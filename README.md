@@ -9,9 +9,16 @@
 # Feature-Geometric-Net-FG-Net
 FG-Net: Fast Large-Scale LiDAR Point Clouds Understanding Network Leveraging Correlated Feature Mining and Geometric-Aware Modelling
 
+ 
 ![cardinal](./fig/Sequence_12.gif) 
-![cardinal](./fig/Video_13.gif) 
 ![cardinal](./fig/Area_1.gif) 
+![cardinal](./fig/Area_2.gif) 
+![cardinal](./fig/Area_3.gif) 
+![cardinal](./fig/Area_4.gif) 
+![cardinal](./fig/Area_5.gif) 
+![cardinal](./fig/Area_6.gif) 
+![cardinal](./fig/Video_13.gif) 
+
 
 
 ![Represent](./fig/s3dis_results_whole.png)
