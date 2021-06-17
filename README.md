@@ -13,26 +13,36 @@
 ![cardinal](./fig/Sequence_12.gif) 
 **Semantic Semgmentation Results on Area 1 of S3DIS Benchmark:**
 ![cardinal](./fig/Area_1.gif) 
+
 **Semantic Semgmentation Results on Area 2 of S3DIS Benchmark:**
-![cardinal](./fig/Area_2.gif) 
+![cardinal](./fig/Area_2.gif)
+
 **Semantic Semgmentation Results on Area 3 of S3DIS Benchmark:**
 ![cardinal](./fig/Area_3.gif) 
+
 **Semantic Semgmentation Results on Area 4 of S3DIS Benchmark:**
 ![cardinal](./fig/Area_4.gif) 
+
 **Semantic Semgmentation Results on Area 5 of S3DIS Benchmark:**
 ![cardinal](./fig/Area_5.gif) 
+
 **Semantic Semgmentation Results on Area 6 of S3DIS Benchmark:**
-**(./fig/Area_6.gif) 
+
+(./fig/Area_6.gif) 
 
 
 **Semantic Semgmentation Results on Lille_1_1 of NPM3D Benchmark:**
 ![cardinal](./fig/Lille_1_1.gif) 
+
 **Semantic Semgmentation Results on Lille_1_2 of NPM3D Benchmark:**
 ![cardinal](./fig/Lille_1_2.gif) 
+
 **Semantic Semgmentation Results on Lille_2 of NPM3D Benchmark:**
 ![cardinal](./fig/Lille_2.gif) 
+
 **Semantic Semgmentation Results on Paris of NPM3D Benchmark:**
 ![cardinal](./fig/Paris.gif) 
+
 
 ![Represent](./fig/s3dis_results_whole.png)
 ![Represent](./fig/s3dis_results_detailed.png)
