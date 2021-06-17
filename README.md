@@ -18,7 +18,16 @@
 ![cardinal](./fig/Sequence_12.gif) <br />
 
 **Comparisons on Sequence 13:** <br />
-![cardinal](./fig/Video_13.gif) <br />
+![cardinal](./fig/Sequence_13.gif) <br />
+
+**Comparisons on Sequence 14:** <br />
+![cardinal](./fig/Sequence_14.gif) <br />
+
+**Comparisons on Sequence 15:** <br />
+![cardinal](./fig/Sequence_15.gif) <br />
+
+**Comparisons on Sequence 16:** <br />
+![cardinal](./fig/Sequence_16.gif) <br />
 
 **Semantic Semgmentation Results on Lille_1_1 of NPM3D Benchmark:**<br />
 ![cardinal](./fig/Lille_1_1.gif) 
