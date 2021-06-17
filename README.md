@@ -110,8 +110,8 @@
 **Visualizations of Kernel Deformations on S3DIS 2**<br />
 ![cardinal](./fig/Kernel_deformation_2.gif)
 
-**Visualizations of Kernel Deformations on S3DIS 3**<br />
-![cardinal](./fig/Kernel_deformation_3.gif)
+<!-- [[**Visualizations of Kernel Deformations on S3DIS 3**<br />
+![cardinal](./fig/Kernel_deformation_3.gif)](url)](url) -->
 
 **Comparisons of Our Proposed FG-Net on S3DIS with Current SOTA Methods**<br />
     ![cardinal](./fig/S3DIS_Compared_Final_2.png)
