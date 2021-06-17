@@ -31,7 +31,7 @@
 
 **Semantic Semgmentation Results on Area 6 of S3DIS Benchmark:**<br />
 
-![cardinal](./fig/Area_5.gif) 
+![cardinal](./fig/Area_6.gif) 
 
 
 **Semantic Semgmentation Results on Lille_1_1 of NPM3D Benchmark:**<br />
