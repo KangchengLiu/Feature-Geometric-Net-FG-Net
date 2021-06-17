@@ -47,7 +47,7 @@
 ![cardinal](./fig/Paris.gif) 
 
 **Comparisons of Our Proposed FG-Net on S3DIS with Current SOTA Methods**<br />
-![a](./fig/S3DIS_Compared_Final_2.png)
+![cardinal](./fig/S3DIS_Compared_Final_2.png)
 
 **Comparisons of Our Proposed FG-Net on SemanticKITTI with Current SOTA Methods**<br />
 ![cardinal](./fig/SemanticKITTI_Compare_Results.png)
