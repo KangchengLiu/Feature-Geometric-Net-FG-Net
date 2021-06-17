@@ -43,12 +43,17 @@
 **Semantic Semgmentation Results on Paris of NPM3D Benchmark:**<br />
 ![cardinal](./fig/Paris.gif) 
 
-
+**Semantic Semgmentation Results on S3DIS Benchmark Whole Areas**<br />
 ![Represent](./fig/s3dis_results_whole.png)
+**Detailed Semantic Semgmentation Results on S3DIS Benchmark**<br />
 ![Represent](./fig/s3dis_results_detailed.png)
+**Detailed Semantic Semgmentation Results on NPM3D Benchmark**<br />
 ![Represent](./fig/NPM3D_results.png)
+**Detailed Semantic Semgmentation Results on Semantic3D Benchmark**<br />
 ![Represent](./fig/semantic3d_final_result.png)
+**Detailed Semantic Semgmentation Results on PartNet Benchmark**<br />
 ![Represent](./fig/PartNet_results_2.png)
+**Detailed Semantic Semgmentation Results on SemanticKITTI Benchmark**<br />
 ![Represent](./fig/semantic_kitti_results.png)
 
 **Semantic Semgmentation Results on Semantic3D Benchmark:**<br />
