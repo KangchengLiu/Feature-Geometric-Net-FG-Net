@@ -44,14 +44,32 @@
 **Semantic Semgmentation Results on Paris of NPM3D Benchmark:**<br />
 ![cardinal](./fig/Paris.gif) 
 
+**Comparisons of Our Proposed FG-Net on S3DIS  with Current SOTA Methods**<br />
+![cardinal](./fig/S3DIS_Compared_Final_2.png)
+
+**Comparisons of Our Proposed FG-Net on SemanticKITTI with Current SOTA Methods**<br />
+![cardinal](./fig/SemanticKITTI_Compare_Results.png)
+
+**Comparisons of Our Proposed FG-Net on Semantic3D with Current SOTA Methods**<br />
+![cardinal](./fig/Semantic3D_Compare_2.png)
+
 **Semantic Semgmentation Results on S3DIS Benchmark Whole Areas**<br />
 ![cardinal](./fig/s3dis_results_whole.png)
 
 **Detailed Semantic Semgmentation Results on S3DIS Benchmark**<br />
 ![cardinal](./fig/s3dis_results_detailed.png)
 
-**Detailed Semantic Semgmentation Results on NPM3D Benchmark**<br />
+**Semantic Semgmentation Results on NPM3D Benchmark**<br />
 ![cardinal](./fig/NPM3D_results.png)
+
+**Detailed Semantic Semgmentation Results on NPM3D Benchmark**<br />
+![cardinal](./fig/NPM3D_results_2.png)
+
+**Detailed Semantic Semgmentation Results on S3DIS Benchmark**<br />
+![cardinal](./fig/s3dis_results_detailed.png)
+
+**Detailed Semantic Semgmentation Results on SemanticKITTI Benchmark**<br />
+![cardinal](./fig/semantic_kitti_results.png)
 
 **Detailed Semantic Semgmentation Results on Semantic3D Benchmark**<br />
 ![cardinal](./fig/semantic3d_final_result.png)
