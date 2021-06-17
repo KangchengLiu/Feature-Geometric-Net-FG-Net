@@ -77,7 +77,7 @@
 ![cardinal](./fig/semantic3d_final_result.png)
 
 **Detailed Semantic Semgmentation Results on PartNet Benchmark**<br />
-![cardinal](./fig/PartNet_results_2.png)
+![cardinal](./fig/PartNet_results.png)
 
 **Detailed Semantic Semgmentation Results on SemanticKITTI Benchmark**<br />
 ![cardinal](./fig/semantic_kitti_results.png)
