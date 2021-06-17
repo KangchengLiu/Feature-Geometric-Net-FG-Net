@@ -82,9 +82,12 @@
 
 
 **Semantic Semgmentation Results on SemanticKITTI Benchmark:**<br />
+
 **Results on Sequence 11-14 of SemanticKITTI Benchmark**<br />
 ![cardinal](./fig/Semantic-KITTI_11_14.gif)
+
 **Results on Sequence 15-18 of SemanticKITTI Benchmark**<br />
 ![cardinal](./fig/Semantic-KITTI_15_18.gif)
+
 **Results on Sequence 08 (Validation Set) of SemanticKITTI Benchmark**<br />
 ![cardinal](./fig/Semantic-KITTI_08.gif)
