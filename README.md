@@ -7,31 +7,31 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fg-net-fast-large-scale-lidar-point/3d-point-cloud-classification-on-modelnet40)](https://paperswithcode.com/sota/3d-point-cloud-classification-on-modelnet40?p=fg-net-fast-large-scale-lidar-point)
 [![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 # Feature-Geometric-Net-FG-Net
-FG-Net: Fast Large-Scale LiDAR Point Clouds Understanding Network Leveraging Correlated Feature Mining and Geometric-Aware Modelling
+**FG-Net: Fast Large-Scale LiDAR Point Clouds Understanding Network Leveraging Correlated Feature Mining and Geometric-Aware Modelling
 
  
 ![cardinal](./fig/Sequence_12.gif) 
-![cardinal]Semantic Semgmentation Results on Area 1 of S3DIS Benchmark:
+**Semantic Semgmentation Results on Area 1 of S3DIS Benchmark:
 ![cardinal](./fig/Area_1.gif) 
-![cardinal]Semantic Semgmentation Results on Area 2 of S3DIS Benchmark:
+**Semantic Semgmentation Results on Area 2 of S3DIS Benchmark:
 ![cardinal](./fig/Area_2.gif) 
-![cardinal]Semantic Semgmentation Results on Area 3 of S3DIS Benchmark:
+**Semantic Semgmentation Results on Area 3 of S3DIS Benchmark:
 ![cardinal](./fig/Area_3.gif) 
-![cardinal]Semantic Semgmentation Results on Area 4 of S3DIS Benchmark:
+**Semantic Semgmentation Results on Area 4 of S3DIS Benchmark:
 ![cardinal](./fig/Area_4.gif) 
-![cardinal]Semantic Semgmentation Results on Area 5 of S3DIS Benchmark:
+**Semantic Semgmentation Results on Area 5 of S3DIS Benchmark:
 ![cardinal](./fig/Area_5.gif) 
-![cardinal]Semantic Semgmentation Results on Area 6 of S3DIS Benchmark:
-![cardinal](./fig/Area_6.gif) 
+**Semantic Semgmentation Results on Area 6 of S3DIS Benchmark:
+**(./fig/Area_6.gif) 
 
 
-![cardinal]Semantic Semgmentation Results on Lille_1_1 of NPM3D Benchmark:
+**Semantic Semgmentation Results on Lille_1_1 of NPM3D Benchmark:
 ![cardinal](./fig/Lille_1_1.gif) 
-![cardinal]Semantic Semgmentation Results on Lille_1_2 of NPM3D Benchmark:
+**Semantic Semgmentation Results on Lille_1_2 of NPM3D Benchmark:
 ![cardinal](./fig/Lille_1_2.gif) 
-![cardinal]Semantic Semgmentation Results on Lille_2 of NPM3D Benchmark:
+**Semantic Semgmentation Results on Lille_2 of NPM3D Benchmark:
 ![cardinal](./fig/Lille_2.gif) 
-![cardinal]Semantic Semgmentation Results on Paris of NPM3D Benchmark:
+**Semantic Semgmentation Results on Paris of NPM3D Benchmark:
 ![cardinal](./fig/Paris.gif) 
 
 ![Represent](./fig/s3dis_results_whole.png)
@@ -41,7 +41,7 @@ FG-Net: Fast Large-Scale LiDAR Point Clouds Understanding Network Leveraging Cor
 ![Represent](./fig/PartNet_results_2.png)
 ![Represent](./fig/semantic_kitti_results.png)
 
-![cardinal]Semantic Semgmentation Results on Semantic3D Benchmark:
+**Semantic Semgmentation Results on Semantic3D Benchmark:
 ![cardinal](./fig/Birdfountain_station1_xyz_intensity_rgb.gif) 
 ![cardinal](./fig/Castleblatten_station_1_intensity_rgb.gif) 
 ![cardinal](./fig/Marketplacefeldkirch_station1_intensity_rgb.gif) 
