@@ -14,48 +14,63 @@
 **FG-Net: Fast Large-Scale LiDAR Point Clouds Understanding Network Leveraging Correlated Feature Mining and Geometric-Aware Modelling**
 **Comparisons of Running Time of Our Method with SOTA methods RandLA and KPConv:**<br />
 **Comparisons on Sequence 12:** <br />
+
 ![cardinal](./fig/Sequence_12.gif) <br />
 
 **Comparisons on Sequence 13:** <br />
+
 ![cardinal](./fig/Sequence_13.gif) <br />
 
 **Comparisons on Sequence 14:** <br />
+
 ![cardinal](./fig/Sequence_14.gif) <br />
 
 **Comparisons on Sequence 15:** <br />
+
 ![cardinal](./fig/Sequence_15.gif) <br />
 
 **Comparisons on Sequence 16:** <br />
+
 ![cardinal](./fig/Sequence_16.gif) <br />
 
 **Semantic Semgmentation Results on Lille_1_1 of NPM3D Benchmark:**<br />
+
 ![cardinal](./fig/Lille_1_1.gif) 
 
 **Semantic Semgmentation Results on Lille_1_2 of NPM3D Benchmark:**<br />
+
 ![cardinal](./fig/Lille_1_2.gif) 
 
 **Semantic Semgmentation Results on Lille_2 of NPM3D Benchmark:**<br />
+
 ![cardinal](./fig/Lille_2.gif) 
 
 **Semantic Semgmentation Results on Paris of NPM3D Benchmark:**<br />
+
 ![cardinal](./fig/Paris.gif) 
 
 **Semantic Semgmentation Results on Area 1 of S3DIS Benchmark:**<br />
+
 ![cardinal](./fig/Area_1.gif) 
 
 **Semantic Semgmentation Results on Area 2 of S3DIS Benchmark:**<br />
+
 ![cardinal](./fig/Area_2.gif)
 
 **Semantic Semgmentation Results on Area 3 of S3DIS Benchmark:**<br />
+
 ![cardinal](./fig/Area_3.gif) 
 
 **Semantic Semgmentation Results on Area 4 of S3DIS Benchmark:**<br />
+
 ![cardinal](./fig/Area_4.gif) 
 
 **Semantic Semgmentation Results on Area 5 of S3DIS Benchmark:**<br />
+
 ![cardinal](./fig/Area_5.gif) 
 
 **Semantic Semgmentation Results on Area 6 of S3DIS Benchmark:**<br />
+
 ![cardinal](./fig/Area_6.gif) 
 
 
@@ -63,33 +78,43 @@
 **Semantic Semgmentation Results on Semantic3D Benchmark:**<br />
 
 **Results on Birdfountain_station1_xyz_intensity_rgb**<br />
+
 ![cardinal](./fig/Birdfountain_station1_xyz_intensity_rgb.gif) 
 
 **Results on Castleblatten_station_1_intensity_rgb**<br />
+
 ![cardinal](./fig/Castleblatten_station_1_intensity_rgb.gif) 
 
 **Results on Marketplacefeldkirch_station1_intensity_rgb**<br />
+
 ![cardinal](./fig/Marketplacefeldkirch_station1_intensity_rgb.gif) 
 
 **Results on Marketplacefeldkirch_station4_intensity_rgb**<br />
+
 ![cardinal](./fig/Marketplacefeldkirch_station4_intensity_rgb.gif) 
 
 **Results on Marketplacefeldkirch_station7_intensity_rgb**<br />
+
 ![cardinal](./fig/Marketplacefeldkirch_station7_intensity_rgb.gif) 
 
 **Results on Sg27_Station10_rgb_intensity**<br />
+
 ![cardinal](./fig/Sg27_Station10_rgb_intensity-reduced.gif) 
 
 **Results on Sg28_Station2_rgb_intensity**<br />
+
 ![cardinal](./fig/Sg28_Station2_rgb_intensity-reduced.gif)
 
 **Results on StGallenCathedral_station1_rgb_intensity**<br />
+
 ![cardinal](./fig/StGallenCathedral_station1_rgb_intensity.gif)
 
 **Results on StGallenCathedral_station3_rgb_intensity**<br />
+
 ![cardinal](./fig/StGallenCathedral_station3_rgb_intensity.gif)
 
 **Results on StGallenCathedral_station6_rgb_intensity**<br />
+
 ![cardinal](./fig/StGallenCathedral_station6_rgb_intensity.gif)
 
 
@@ -112,41 +137,56 @@
 
 <!-- [[**Visualizations of Kernel Deformations on S3DIS 3**<br />
 ![cardinal](./fig/Kernel_deformation_3.gif)](url)](url) -->
-
 **Comparisons of Our Proposed FG-Net on S3DIS with Current SOTA Methods**<br />
-    ![cardinal](./fig/S3DIS_Compared_Final_2.png)
+
+![cardinal](./fig/S3DIS_Compared_Final.png)
+    
+**Comparisons of Our Proposed FG-Net on S3DIS with Current SOTA Methods**<br />
+
+![cardinal](./fig/S3DIS_Compared_Final_2.png)
+
 
 **Comparisons of Our Proposed FG-Net on SemanticKITTI with Current SOTA Methods**<br />
+
 ![cardinal](./fig/SemanticKITTI_Compare_Results.png)
 
 **Comparisons of Our Proposed FG-Net on Semantic3D with Current SOTA Methods**<br />
+
 ![cardinal](./fig/Semantic3D_Compare_2.png)
 
 **Semantic Semgmentation Results on S3DIS Benchmark Whole Areas**<br />
+
 ![cardinal](./fig/s3dis_results_whole.png)
 
 **Detailed Semantic Semgmentation Results on S3DIS Benchmark**<br />
+
 ![cardinal](./fig/s3dis_results_detailed.png)
 
 **Semantic Semgmentation Results on NPM3D Benchmark**<br />
+
 ![cardinal](./fig/NPM3D_results.png)
 
 **Detailed Semantic Semgmentation Results on NPM3D Benchmark**<br />
 ![cardinal](./fig/NPM3D_results_2.png)
 
 **Detailed Semantic Semgmentation Results on S3DIS Benchmark**<br />
+
 ![cardinal](./fig/s3dis_results_detailed.png)
 
 **Detailed Semantic Semgmentation Results on SemanticKITTI Benchmark**<br />
+
 ![cardinal](./fig/semantic_kitti_results.png)
 
 **Detailed Semantic Semgmentation Results on Semantic3D Benchmark**<br />
+
 ![cardinal](./fig/semantic3d_final_result.png)
 
 **Detailed Semantic Semgmentation Results on PartNet Benchmark**<br />
+
 ![cardinal](./fig/PartNet_results.png)
 
 **Detailed Semantic Semgmentation Results on SemanticKITTI Benchmark**<br />
+
 ![cardinal](./fig/semantic_kitti_results.png)
 
 # Summary of Work
