@@ -1,6 +1,7 @@
 **Performance of Our Methods on Large-Scale Public Benchmarks:**
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fg-net-fast-large-scale-lidar-point/lidar-semantic-segmentation-on-paris-lille-3d)](https://paperswithcode.com/sota/lidar-semantic-segmentation-on-paris-lille-3d?p=fg-net-fast-large-scale-lidar-point)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fg-net-fast-large-scale-lidar-point/3d-semantic-segmentation-on-partnet)](https://paperswithcode.com/sota/3d-semantic-segmentation-on-partnet?p=fg-net-fast-large-scale-lidar-point)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fg-net-fast-large-scale-lidar-point/semantic-segmentation-on-semantic3d)](https://paperswithcode.com/sota/semantic-segmentation-on-semantic3d?p=fg-net-fast-large-scale-lidar-point)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fg-net-fast-large-scale-lidar-point/3d-semantic-segmentation-on-semantickitti)](https://paperswithcode.com/sota/3d-semantic-segmentation-on-semantickitti?p=fg-net-fast-large-scale-lidar-point)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fg-net-fast-large-scale-lidar-point/semantic-segmentation-on-scannet)](https://paperswithcode.com/sota/semantic-segmentation-on-scannet?p=fg-net-fast-large-scale-lidar-point)
