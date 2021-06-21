@@ -12,7 +12,8 @@
 
 # Feature-Geometric-Net-FG-Net
 
-**FG-Net: Fast Large-Scale LiDAR Point Clouds Understanding Network Leveraging Correlated Feature Mining and Geometric-Aware Modelling**
+**FG-Net: A Fast and Accurate Framework forLarge-Scale LiDAR Point Clouds Understanding**
+
 **Comparisons of Running Time of Our Method with SOTA methods RandLA and KPConv:**<br />
 **Comparisons on Sequence 12:** <br />
 
