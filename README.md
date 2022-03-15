@@ -1,14 +1,3 @@
-**Performance of Our Methods on Large-Scale Public Benchmarks:**
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fg-net-fast-large-scale-lidar-point/lidar-semantic-segmentation-on-paris-lille-3d)](https://paperswithcode.com/sota/lidar-semantic-segmentation-on-paris-lille-3d?p=fg-net-fast-large-scale-lidar-point)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fg-net-fast-large-scale-lidar-point/3d-semantic-segmentation-on-partnet)](https://paperswithcode.com/sota/3d-semantic-segmentation-on-partnet?p=fg-net-fast-large-scale-lidar-point)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fg-net-fast-large-scale-lidar-point/semantic-segmentation-on-semantic3d)](https://paperswithcode.com/sota/semantic-segmentation-on-semantic3d?p=fg-net-fast-large-scale-lidar-point)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fg-net-fast-large-scale-lidar-point/3d-semantic-segmentation-on-semantickitti)](https://paperswithcode.com/sota/3d-semantic-segmentation-on-semantickitti?p=fg-net-fast-large-scale-lidar-point)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fg-net-fast-large-scale-lidar-point/semantic-segmentation-on-scannet)](https://paperswithcode.com/sota/semantic-segmentation-on-scannet?p=fg-net-fast-large-scale-lidar-point)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fg-net-fast-large-scale-lidar-point/3d-part-segmentation-on-shapenet-part)](https://paperswithcode.com/sota/3d-part-segmentation-on-shapenet-part?p=fg-net-fast-large-scale-lidar-point)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fg-net-fast-large-scale-lidar-point/semantic-segmentation-on-s3dis)](https://paperswithcode.com/sota/semantic-segmentation-on-s3dis?p=fg-net-fast-large-scale-lidar-point)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fg-net-fast-large-scale-lidar-point/3d-point-cloud-classification-on-modelnet40)](https://paperswithcode.com/sota/3d-point-cloud-classification-on-modelnet40?p=fg-net-fast-large-scale-lidar-point)
-[![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
 # Feature-Geometric-Net-FG-Net
 
@@ -196,7 +185,7 @@
 This work presents FG-Net, a general deep learning framework for large-scale point clouds understanding without voxelizations, which achieves accurate and real-time performance with a single NVIDIA GTX 1080 GPU and an i7 CPU. First, a novel noise and outlier filtering method is designed to facilitate the subsequent high-level understanding tasks. For effective understanding purpose, we propose a novel plug-and-play module consisting of correlated feature mining and deformable convolution based geometric-aware modelling, in which the local feature relationships and point clouds geometric structures can be fully extracted and exploited. For the efficiency issue, we put forward a new composite inverse density sampling based and learning based operation and a feature pyramid based residual learning strategy to save the computational cost and memory consumption respectively. Compared with current methods which are only validated on limited datasets, we have done extensive experiments on eight real-world challenging benchmarks, which demonstrates that our approaches outperform state-of-the-art approaches in terms of both accuracy and efficiency. Moreover, weakly supervised transfer learning is also conducted to demonstrate the generalization capacity of our method. Source code, and representative results on the public benchmarks of our work are made publicly available to benefit the community.
 
 ### Acknowledgment
--  Part of the code refers to <a href="https://github.com/jlblancoc/nanoflann">nanoflann</a> and the popular point based network Kernel Point Convolution <a href="https://github.com/HuguesTHOMAS/KPConv">KPConv</a>. Thank their contribution.
+A portion of the code refers to <a href="https://github.com/jlblancoc/nanoflann">nanoflann</a> and the popular point based network Kernel Point Convolution <a href="https://github.com/HuguesTHOMAS/KPConv">KPConv</a>. Thank their contribution.
 
 
 ### License
