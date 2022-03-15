@@ -30,7 +30,7 @@ s3dis_labels = {
     13: 'clutter'
 }
 
-cfg_file = "../configs/randlanet_s3dis.yml"
+cfg_file = "../configs/FGnet_s3dis.yml"
 ckpt_path = load_model()
 
 '''
@@ -174,7 +174,7 @@ def main(data_path, out_path, visualize_prediction=False, vis_open3d=False, task
     cfg = _ml3d.utils.Config.load_from_file(cfg_file)
 
     cfg.model.ckpt_path = ckpt_path
-    model = ml3d.models.RandLANet(**cfg.model)
+    model = ml3d.models.FGNet(**cfg.model)
     pipeline = ml3d.pipelines.SemanticSegmentation(model, **cfg.pipeline)
     pipeline.load_ckpt(model.cfg.ckpt_path)
     pcs = get_custom_data(data_path)
