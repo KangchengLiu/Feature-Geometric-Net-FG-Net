@@ -129,11 +129,11 @@ def reconstruction_pipeline(args):
             #o3d.io.write_triangle_mesh("output/wall_mesh_"+str(count)+".ply", wall_mesh)
             merged_mesh += planar_decimation(wall_mesh)
         
-        # Process the floor
+        # Processing the floor
         floor_mesh = construct_planar_mesh(floor_pcd, args.meshing_algorithm)
         merged_mesh += planar_decimation(floor_mesh)
 
-        # Process the ceiling
+        # Processing the ceiling
         ceiling_mesh = construct_planar_mesh(ceiling_pcd, args.meshing_algorithm)
         merged_mesh += planar_decimation(ceiling_mesh)
     #o3d.io.write_triangle_mesh("output/wall_mesh_decimated_"+str(count)+".ply", wall_mesh_decimated)
@@ -151,7 +151,7 @@ if __name__ == '__main__':
     parser.add_argument('-if','--floor_file', default='None', help='Input point cloud of floor')
     parser.add_argument('-ic','--ceiling_file', default='None', help='Input point cloud of ceiling')
     parser.add_argument('-io', '--others_file', default='None', help='Input point cloud of other points')
-    parser.add_argument('-o', '--output', help='Output mesh file path')
+    parser.add_argument('-o', '--output', help='Output the mesh file path')
     parser.add_argument('-m','--meshing_algorithm', default='poisson', help='poisson(default), ball_pivot, alpha_shapes')
     parser.add_argument('--no_projection', action='store_true', help='Do not project all points to plane')
     parser.add_argument('--no_segmentation', action='store_true', help='Do not process walls individually')
