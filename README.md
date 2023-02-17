@@ -188,3 +188,31 @@ A portion of the code refers to <a href="https://github.com/jlblancoc/nanoflann"
 
 ### License
 The license is under the MIT license, see [LICENSE](./LICENSE).
+
+
+
+### Citations
+
+```
+@article{liu2022fg,
+  title={Fg-net: A fast and accurate framework for large-scale lidar point cloud understanding},
+  author={Liu, Kangcheng and Gao, Zhi and Lin, Feng and Chen, Ben M},
+  journal={IEEE Transactions on Cybernetics},
+  volume={53},
+  number={1},
+  pages={553--564},
+  year={2022},
+  publisher={IEEE}
+}
+
+@inproceedings{liu2021fg,
+  title={FG-Conv: Large-Scale LiDAR Point Clouds Understanding Leveraging Feature Correlation Mining and Geometric-Aware Modeling},
+  author={Liu, Kangcheng and Gao, Zhi and Lin, Feng and Chen, Ben M},
+  booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={12896--12902},
+  year={2021},
+  organization={IEEE}
+}
+
+
+```
